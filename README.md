@@ -4,8 +4,6 @@
   </a>
 </h1>
 
----
-
 <p align="center">
   Passionate about building scalable applications, crafting intuitive user experiences, and continuously learning new technologies.
 </p>
@@ -48,10 +46,10 @@
 
 ## Featured Projects
 
-### 📸 Photography Studio Management System
+#### 📸 Photography Studio Management System
 A MERN Stack application for managing bookings, photography packages, customer interactions, and payments.
 
-### 🏠 Home Service Worker Hiring Mobile App
+#### 🏠 Home Service Worker Hiring Mobile App
 A mobile platform connecting customers with skilled service providers through a modern and user-friendly experience.
 
 ---
@@ -68,8 +66,8 @@ A mobile platform connecting customers with skilled service providers through a 
   </a>
 
 ---
-<h3 align="center">
+<h6 align="center">
   <i>Thanks for visiting my profile!</i>
-</h3>
+</h6>
 
 
