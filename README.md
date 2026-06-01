@@ -9,7 +9,7 @@
   Passionate about building scalable applications, crafting intuitive user experiences, and continuously learning new technologies.
   <br>
 </p>
-
+<br>
 ---
 
 ## 🛠️ Tech Stack
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-C084FC?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
---
+---
 
 <h5 align="center">
   <i>Thanks for visiting my profile!</i>
