@@ -6,7 +6,7 @@
 
 <p align="center">
   <br>
-  Passionate about building scalable applications, crafting intuitive user experiences, and continuously learning new technologies.
+  Passionate about building scalable applications, crafting intuitive user experiences, and continuously learning new technologies to create impactful full-stack and mobile solutions.
   <br>
 </p>
 
