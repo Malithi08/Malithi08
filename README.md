@@ -9,7 +9,6 @@
   Passionate about building scalable applications, crafting intuitive user experiences, and continuously learning new technologies.
   <br>
 </p>
-<br>
 
 ---
 
