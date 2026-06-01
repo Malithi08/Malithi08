@@ -4,9 +4,10 @@
   </a>
 </h1>
 
-<br>
 <p align="center">
+  <br>
   Passionate about building scalable applications, crafting intuitive user experiences, and continuously learning new technologies.
+  <br>
 </p>
 
 ---
@@ -48,13 +49,13 @@
 ## Featured Projects
 
 
-### 📸 Photography Studio Management System
-A MERN Stack application for managing bookings, photography packages, customer interactions, and payments.
+#### 📸 Photography Studio Management System
+<p>A MERN Stack application for managing bookings, photography packages, customer interactions, and payments.</p>
 
 <br> 
 
-### 🏠 Home Service Worker Hiring Mobile App
-A mobile platform connecting customers with skilled service providers through a modern and user-friendly experience.
+#### 🏠 Home Service Worker Hiring Mobile App
+<p>A mobile platform connecting customers with skilled service providers through a modern and user-friendly experience.</p>
 
 ---
 
@@ -71,7 +72,7 @@ A mobile platform connecting customers with skilled service providers through a 
     <img src="https://img.shields.io/badge/LinkedIn-C084FC?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
----
+--
 
 <h5 align="center">
   <i>Thanks for visiting my profile!</i>
