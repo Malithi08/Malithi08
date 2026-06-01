@@ -8,7 +8,6 @@
 <p align="center">
   Passionate about building scalable applications, crafting intuitive user experiences, and continuously learning new technologies.
 </p>
-<br>
 
 ---
 
@@ -48,16 +47,20 @@
 
 ## Featured Projects
 
-<br>
+
 ### 📸 Photography Studio Management System
 A MERN Stack application for managing bookings, photography packages, customer interactions, and payments.
 
+<br> 
+
 ### 🏠 Home Service Worker Hiring Mobile App
 A mobile platform connecting customers with skilled service providers through a modern and user-friendly experience.
-<br>
+
 ---
 
 ## 📫 Connect With Me
+
+<br>
 
 <p align="center">
   <a href="https://github.com/Malithi08" target="_blank">
@@ -70,7 +73,6 @@ A mobile platform connecting customers with skilled service providers through a 
 
 ---
 
-<br>
 <h5 align="center">
   <i>Thanks for visiting my profile!</i>
 </h5>
