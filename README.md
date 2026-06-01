@@ -1,13 +1,16 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Malithi+Pabodha;Full-Stack+Developer;UI%2FUX+Designer;Mobile+Application+Developer;Always+Learning+New+Technologies" alt="Typing SVG" /> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Malithi+Pabodha;Full-Stack+Developer;UI%2FUX+Designer;Mobile+Application+Developer" alt="Typing SVG" /> 
   </a>
 </h1>
 
+<br>
 <p align="center">
   Passionate about building scalable applications, crafting intuitive user experiences, and continuously learning new technologies.
 </p>
+<br>
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -45,12 +48,13 @@
 
 ## Featured Projects
 
+<br>
 ### 📸 Photography Studio Management System
 A MERN Stack application for managing bookings, photography packages, customer interactions, and payments.
 
 ### 🏠 Home Service Worker Hiring Mobile App
 A mobile platform connecting customers with skilled service providers through a modern and user-friendly experience.
-
+<br>
 ---
 
 ## 📫 Connect With Me
@@ -66,6 +70,7 @@ A mobile platform connecting customers with skilled service providers through a 
 
 ---
 
+<br>
 <h5 align="center">
   <i>Thanks for visiting my profile!</i>
 </h5>
