@@ -8,6 +8,7 @@
   Passionate about building scalable applications, crafting intuitive user experiences, and continuously learning new technologies.
 </p>
 
+
 ## 🛠️ Tech Stack
 
 ### Programming Languages
@@ -64,6 +65,7 @@ A mobile platform connecting customers with skilled service providers through a 
   </a>
 
 ---
+
 <h5 align="center">
   <i>Thanks for visiting my profile!</i>
 </h5>
