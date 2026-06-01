@@ -17,7 +17,7 @@
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,php,c++,kotlin" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,php,c,kotlin" />
 </p>
 
 ### Frontend Development
@@ -67,8 +67,9 @@ A mobile platform connecting customers with skilled service providers through a 
     <img src="https://img.shields.io/badge/LinkedIn-C084FC?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-
+---
 <h3 align="center">
   <i>Thanks for visiting my profile!</i>
 </h3>
+
 
