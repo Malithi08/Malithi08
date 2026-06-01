@@ -4,9 +4,13 @@
   </a>
 </h1>
 
+---
+
 <p align="center">
   Passionate about building scalable applications, crafting intuitive user experiences, and continuously learning new technologies.
 </p>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -63,20 +67,8 @@ A mobile platform connecting customers with skilled service providers through a 
     <img src="https://img.shields.io/badge/LinkedIn-C084FC?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:malithipabodha08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-C084FC?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Malithi08&label=Profile%20Views&color=C084FC&style=for-the-badge" alt="Profile Views" />
-</p>
 
 <h3 align="center">
-  ⭐ Thanks for visiting my profile! ⭐
+  <i>Thanks for visiting my profile!</i>
 </h3>
 
-<p align="center">
-  <i>Building, Learning, and Growing One Commit at a Time 🚀</i>
-</p>
